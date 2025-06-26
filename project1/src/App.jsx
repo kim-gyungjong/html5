@@ -15,8 +15,8 @@ function App() {
   return (
     <div>
       위도: {lat} <br/>
-      {/* 경도: {lon} <br/>
-      정확도 : {accuracy} 미터 */}
+      경도: {lon} <br/>
+      정확도 : {accuracy}
     </div>
 
  )
